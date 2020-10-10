@@ -55,7 +55,7 @@ export const members = [
     professor: '',
     foto: {
       src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
-        alt: 'Um rapaz moreno de camiseta branca'
+        alt: 'Um rapaz moreno de camiseta branca',
     },
      redesSocias: {
       github: 'https://github.com/Israelfer',
@@ -167,11 +167,11 @@ export const members = [
     professor: 'Raissa',
     foto: {
       src:
-        '',
-      alt: '',
+        'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
+      alt: 'Foto perfil GitHub mflilian',
     },
     redesSocias: {
-      github: '',
+      github: 'https://github.com/mflilian',
       linkedin: '',
     },
 },  
