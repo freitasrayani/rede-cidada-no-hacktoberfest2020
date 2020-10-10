@@ -89,8 +89,8 @@ export const members = [
       alt: 'aluna start',
     },
     redesSocias: {
-      github: 'https://github.com/simoneas02',
-      linkedin: 'https://www.linkedin.com/in/simoneas02/',
+      github: 'https://github.com/freitasrayani',
+      linkedin: 'https://www.linkedin.com/in/freitasrayani/',
     },
     },
   {
